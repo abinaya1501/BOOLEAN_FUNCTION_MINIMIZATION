@@ -47,7 +47,8 @@ Developed by: RegisterNumber:*/
 
 
 **RTL realization**
-"C:\Users\admin\Desktop\DE LAB\exp2\Screenshot 2024-11-15 105609.png"
+
+![Screenshot 2024-11-15 105609](https://github.com/user-attachments/assets/3702f22c-34c3-4868-b16b-d687cf044f63)
 
 **Output:**
 
